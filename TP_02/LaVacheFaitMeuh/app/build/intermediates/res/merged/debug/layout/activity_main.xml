@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/cow"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/vache"/>
+
+</LinearLayout>
+<!-- From: file:/Users/zalila/My%20Cubby/TP_Android/Mes_TPs/TP_02/LaVacheFaitMeuh/app/src/main/res/layout/activity_main.xml -->

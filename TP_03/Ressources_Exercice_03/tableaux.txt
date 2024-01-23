@@ -1,0 +1,17 @@
+private static int[] imagesIds = {
+   R.drawable.ours,       R.drawable.chat,    R.drawable.poule,  R.drawable.chimpanse,
+   R.drawable.vache,      R.drawable.chien,   R.drawable.ane,    R.drawable.elephant,
+   R.drawable.grenouille, R.drawable.chevre,  R.drawable.oie,    R.drawable.cheval,
+   R.drawable.chaton,     R.drawable.lion,    R.drawable.singe,  R.drawable.cochon,
+   R.drawable.coq,        R.drawable.foque,   R.drawable.mouton, R.drawable.tigre,
+   R.drawable.dinde,      R.drawable.baleine, R.drawable.loup
+};
+
+private static int[] sonsIds = {
+   R.raw.ours,   R.raw.chat,    R.raw.poule,    R.raw.chimpanse,  R.raw.vache,
+   R.raw.chien,  R.raw.ane,     R.raw.elephant, R.raw.grenouille, R.raw.chevre,
+   R.raw.oie,    R.raw.cheval,  R.raw.chaton,   R.raw.lion,       R.raw.singe,
+   R.raw.cochon, R.raw.coq,     R.raw.foque,    R.raw.mouton,     R.raw.tigre,
+   R.raw.dinde,  R.raw.baleine, R.raw.loup
+};
+

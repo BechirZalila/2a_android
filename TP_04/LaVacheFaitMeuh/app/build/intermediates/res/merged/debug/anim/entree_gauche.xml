@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+        <translate android:fromXDelta="-100%p" android:toXDelta="0"
+            android:duration="@android:integer/config_mediumAnimTime"/>
+</set><!-- From: file:/Users/zalila/My%20Cubby/TP_Android/Mes_TPs/TP_04/LaVacheFaitMeuh/app/src/main/res/anim/entree_gauche.xml -->
